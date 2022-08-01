@@ -19,6 +19,8 @@
 
   ## Usage
   This application will allow a user to signup/login and you can then add products to your card and checkout via stripe. 
+  
+  View the deployed application on Heroku: https://redux-ecommerce-store.herokuapp.com/
 
   ## Contributors
   Contributors should read the installation section. 
